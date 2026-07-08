@@ -43,7 +43,7 @@ Case studies below describe production work at Triquetra Health. Actual producti
 
 **Automation Tools:** n8n, Zapier, Make, Google Apps Script, Shopify Flow
 
-**AI:** Anthropic Claude API (production integration), prompt engineering, human-in-the-loop patterns, structured audit logging
+**AI:** Anthropic Claude API (production integration) Gemini & ChatGPT (Meta Prompting), prompt engineering, human-in-the-loop patterns, structured audit logging
 
 **Cloud:** AWS (EC2, S3, Lambda, RDS, API Gateway, CloudWatch, IAM)
 
